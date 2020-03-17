@@ -1,0 +1,9 @@
+{
+  "downloads": [
+    {
+      "id": 1,
+      "title": "node",
+      "link": "https://nodejs.org/dist/v12.16.1/node-v12.16.1-x86.msi"
+    }
+  ]
+}
