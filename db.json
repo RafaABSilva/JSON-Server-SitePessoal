@@ -3,11 +3,13 @@
     {
       "id": 1,
       "title": "Node.js",
+      "type": 2,
       "link": "05256eb9e935b884bead4f89547bc6a0fd44218b4d1e5204159ca6a830d4163c"
     },
     {
       "id": 2,
       "title": "Yarn",
+      "type": 1,
       "link": "dd6d86a41927e000abd58f6f6d31a027de367143754f0593e067dcbdff9823109520c3a3e0a0a1214a27899cf555b389"
     }
   ]
