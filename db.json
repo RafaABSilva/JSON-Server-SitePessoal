@@ -4,6 +4,11 @@
       "id": 1,
       "title": "Node.js",
       "link": "0c9ca2613e25a5e65dcc2da079d8853f616548f93b956bbcc2024a5749c4a2d862ef98a7db32ca663b37f3a96247c36fb50cb7eeecbdcf993a7d1d6d8fbd723b"
+    },
+    {
+      "id": 2,
+      "title": "Yarn",
+      "link": "dd955077ee39a7bb66fc173903fc31cb492faac67f70e1cfec930ec1496dd1f6c157b3a13968454e5aa317262648ceab"
     }
   ]
 }
