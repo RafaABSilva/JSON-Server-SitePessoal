@@ -9,8 +9,20 @@
     {
       "id": 2,
       "title": "Yarn",
-      "type": 1,
-      "link": "dd6d86a41927e000abd58f6f6d31a027de367143754f0593e067dcbdff9823109520c3a3e0a0a1214a27899cf555b389"
+      "type": 2,
+      "link": "dd6d86a41927e000abd58f6f6d31a027b44eed95e9b8ac51967bfd27e1efd4361b5ca37ce69288a27e661fdb0108b395"
+    },
+    {
+      "id": 3,
+      "title": "Visual Studio Code",
+      "type": 2,
+      "link":"675e0a78d23417149d52215bbbe761eba990196a8bc9ba86c9cd617eb39f0535ddb4cff5821e9a6845ea6c16a2d1cc04"
+    },
+    {
+      "id": 4,
+      "title": "Insomnia",
+      "type": 2,
+      "link":"c7d084427109deb4a2b4ffaf61502815bd90a332c564cf7a04ec0d2a971c9a09"
     }
   ]
 }
